@@ -109,6 +109,7 @@ h2 {
 
 .card {
     width: 230px;
+    text-align: center;
 }
 
 .card-text {
