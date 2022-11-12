@@ -115,3 +115,22 @@ h2 {
 .card-text {
     font-size: 1.3em;
 }
+
+.quote-section {
+    font-size: 40px;
+    font-weight: 200;
+    font-style: italic;
+    color: #1f2937;
+    padding: 150px 400px;
+    background-color: #e5e7eb;
+}
+
+.author {
+    padding-top: 35px;
+    padding-right: 50px;
+    text-align: right;
+    font-size: 30px;
+    font-stretch: extra-condensed;
+    font-weight: bold;
+    font-style: normal;
+}
