@@ -75,7 +75,6 @@ button {
 }
 
 .right img {
-    flex: initial;
     width: 100%;
 }
 
@@ -87,3 +86,32 @@ button {
     justify-content: space-between;
 }
 
+h2 {
+    font-size: 42px;
+    font-weight: 900;
+    text-align: center;
+    color: #1f2937;
+    margin: 70px;
+}
+
+.card img {
+    width: 100%;
+    height: auto;
+    border: solid rgb(39, 130, 250) 5px;
+    border-radius: 15px;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-bottom: 140px;
+}
+
+.card {
+    width: 230px;
+}
+
+.card-text {
+    font-size: 1.3em;
+}
